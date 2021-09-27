@@ -1,1 +1,1 @@
-chess
+git+https://github.com/dn1z/pgn2gif
